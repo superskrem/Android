@@ -1,0 +1,12 @@
+fire 
+fire_extinguisher
+helmet
+smoke
+with_mask 
+with_sleeves
+with_suit_IFR
+with_vest
+without_helmet
+without_mask
+without_sleeves 
+without_vest
